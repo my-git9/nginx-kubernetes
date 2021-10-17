@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: bharamicrosystems/nginx:v1
+        image: 10.23.3.122/daocloud/nginx:v1
         ports:
         - containerPort: 80
